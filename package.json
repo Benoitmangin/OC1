@@ -1,0 +1,11 @@
+{
+  "name": "p2_mangin_code",
+  "version": "1.0.0",
+  "description": "essai",
+  "main": "index.js",
+  "scripts": {
+    "sass":"sass --watch ./C:Users/benoi/Desktop/Open Classroom/Pre-Apprentissage/Mois2-Janvier/P2_MANGIN_code/CSS/styles.scss:.CSS/p2_mangin_code@1.0.O"
+  },
+  "author": "",
+  "license": "ISC"
+}
